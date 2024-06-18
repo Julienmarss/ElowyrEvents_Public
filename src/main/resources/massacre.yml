@@ -1,0 +1,15 @@
+mobs:
+  - "ZOMBIE:3"
+  - "SKELETON:6"
+
+win:
+  top1:
+    - "/say FDP"
+  top2:
+    - "/say ARABE"
+  top3:
+    - "/say JULIENMARS"
+
+MESSAGES:
+  STOP:
+    BROADCAST: "%faction%"

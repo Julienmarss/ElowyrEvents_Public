@@ -1,0 +1,15 @@
+totemwarzone:
+  world-name: world
+  x: 121.5
+  y: 96.0
+  z: -312.5
+totempres:
+  world-name: pres
+  x: -27.5
+  y: 34.0
+  z: -27.5
+
+rewards:
+  - crate give p Event 1 %player%
+  - crate give p Event 1 %player%
+  - crate give p Event 1 %player%
